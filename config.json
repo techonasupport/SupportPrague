@@ -1,0 +1,152 @@
+{
+    "external_pages": {
+        "help": {
+            "url": "http://www2.casinohelponline.com/Native/Android/Help.html",
+            "external": false,
+            "url_params_map": {
+                "language": "lang",
+                "brand_name": "brandName"
+            }
+        }
+    },
+    "analytics": {
+        "crashlytics" :{
+            "enabled": true
+        },
+        "fabric_analytics": {
+            "enabled": true
+        }
+    },
+    "game_config": {
+        "game_path": "/lobby.aspx?cdkModule=gameLauncher&skinId={skinId}&user={login}&forReal={forReal}&token={token}&gameId={gameId}&machId={machId}&betDenomination={betDenomination}&numOfHands={numOfHands}&returnurl={returnurl}&useExistingSession=True&isNative=true",
+        "return_url": "/Lobby.aspx",
+        "fun_play": true,
+        "preloaded_games": [
+                            "0-0-0",
+                            "0-9-0",
+                            "12-0-0",
+                            "13-0-0",
+                            "18-223-0",
+                            "18-120-0",
+                            "18-121-0",
+                            "18-122-0",
+                            "18-124-0",
+                            "18-130-0",
+                            "18-14-0",
+                            "18-141-0",
+                            "18-146-0",
+                            "18-147-0",
+                            "18-148-0",
+                            "18-149-0",
+                            "18-15-0",
+                            "18-153-0",
+                            "18-155-0",
+                            "18-156-0",
+                            "18-158-0",
+                            "18-160-0",
+                            "18-161-0",
+                            "18-162-0",
+                            "18-164-0",
+                            "18-165-0",
+                            "18-167-0",
+                            "18-168-0",
+                            "18-169-0",
+                            "18-170-0",
+                            "18-171-0",
+                            "18-172-0",
+                            "18-173-0",
+                            "18-174-0",
+                            "18-176-0",
+                            "18-177-0",
+                            "18-179-0",
+                            "18-181-0",
+                            "18-187-0",
+                            "18-188-0",
+                            "18-189-0",
+                            "18-190-0",
+                            "18-191-0",
+                            "18-192-0",
+                            "18-193-0",
+                            "18-194-0",
+                            "18-197-0",
+                            "18-198-0",
+                            "18-199-0",
+                            "18-2-0",
+                            "18-209-0",
+                            "18-212-0",
+                            "18-213-0",
+                            "18-219-0",
+                            "18-220-0",
+                            "18-221-0",
+                            "18-222-0",
+                            "18-23-0",
+                            "18-25-0",
+                            "18-26-0",
+                            "18-32-0",
+                            "18-36-0",
+                            "18-4-0",
+                            "18-43-0",
+                            "18-44-0",
+                            "18-49-0",
+                            "18-5-0",
+                            "18-51-0",
+                            "18-56-0",
+                            "18-60-0",
+                            "18-61-0",
+                            "18-65-0",
+                            "18-78-0",
+                            "18-83-0",
+                            "4-1-0",
+                            "7-0-0",
+                            "7-1-0",
+                            "7-10-0",
+                            "7-11-0",
+                            "7-12-0",
+                            "7-13-0",
+                            "7-2-0",
+                            "7-3-0",
+                            "7-4-0",
+                            "7-5-0",
+                            "7-6-0",
+                            "7-7-0",
+                            "7-8-0",
+                            "7-9-0"
+                            ],
+        "cache": {
+            "default_game_size": 10,
+            "max_folder_size": 500,
+            "max_device_percentage": 10,
+            "recent_game_age": 10080
+        }
+    },
+    "native_pages_texts": {
+        "about_us": "Since 1998, we’ve recognized that success begins with people. That’s why we employ some of the best people in the industry – seriously talented people with a deep understanding and passion for the gaming business. \n\nThis mix of talent, passion, and experience drives the business, and our commitment to innovation keeps us at the cutting edge of the industry. \n\nOur clients already know the difference. Their success is the best testimony to our ability.",
+        "terms_conditions": "Legal Notice\n\n© 2018. All rights are reserved.\n\nThe content on this App is protected by all International recognized copyright laws.\n\nrealtimegaming, RTG, Take Gaming Seriously, Feature Guarantee, Jackpot Pyramid, Boiling Point Jackpot, Suit ‘em Up and Vegas Three Card Rummy are all registered trademarks of their respective owners.",
+        "contact_us": "For information about Arrontech and our software offerings contact us directly\n\n\nARRONTECH SOFTWARE LTD\n\n14th Floor of China Hong Kong Tower\nRoom 1401, 8 Hennessy Road\nWan Chai, Hong Kong\n\nPhone: +852 3124 2801\n\nemail: info@arrontech.com\n\nweb: http://www.arrontech.com"
+    },
+    "version_info": {
+        "minimum_ver": "17.08.0",
+        "latest_ver": "17.12.1",
+        "latest_ver_url": "http://com.example.cdn/example.apk"
+    },
+    "featured_category": {
+        "name": "Popular",
+        "color": "#1B873B",
+        "order_index": 0,
+        "Visible": true
+    },
+    "config": {
+        "request_connect_timeout": 5000,
+        "request_socket_timeout": 30000,
+        "popular_games_limit":10,
+        "balance_click_enabled": true,
+        "save_username": true,
+        "default_affiliate_id": 0,
+        "default_accept_promotions": true,
+        "default_accept_sms": true
+    },
+    "jackpot_config": {
+        "update_interval": 60,
+        "ticker_interval": 200
+    }
+}

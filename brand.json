@@ -1,0 +1,7 @@
+{
+    "application_name": "RealTime Gaming",
+    "package_name": "com.rtgdemo.androidnative",
+    "artifact_id": "rtg-demo",
+	"server_url": "https://rtgdemocdk.realtimegaming.com:2072",
+    "version_tag": "18.02.0"
+}
